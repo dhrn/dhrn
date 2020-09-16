@@ -3,8 +3,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Angular, Spring boot, NestJs and sometime with Devops
-- 🌱 I’m currently learning Kubernets and Angular, Typescript ... pretty much everyhting required to achieve the business problem 
-- 💬 Ask me about Angular, 
+- 🌱 I’m currently learning Kubernets and Angular, Typescript ... pretty much everything that required to solve the business problem 
+- 💬 Ask me about Angular, Typescript
 - 📫 How to reach me: [@Dharan](https://twitter.com/dhrn_G)
 
 ![Dharan Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=dhrn&show_icons=true&include_all_commits=true)
