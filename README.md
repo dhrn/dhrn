@@ -1,7 +1,5 @@
 ### Hi there  I'm Dharan 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Angular, Spring boot, NestJs and sometime with Devops
 - 🌱 I’m currently learning Kubernets and Angular, Typescript ... pretty much everything that required to solve the business problem 
 - 💬 Ask me about Angular, Typescript
