@@ -1,7 +1,7 @@
 ### Hi there  I'm Dharan 👋 <img align="right" src="https://komarev.com/ghpvc/?username=dhrn" alt="Dharan" />
 
 - 🔭 I’m currently working on Angular, Spring boot, NestJs and sometime with Devops
-- 🌱 I’m currently learning Angular, Typescript, Kubernets ... pretty much everything that required to solve the business problem 
+- 🌱 I’m currently learning Angular, Typescript ... pretty much everything that required to solve the business problem 
 - 💬 Ask me about Angular, Typescript
 - 📫 How to reach me: [@Dharan](https://twitter.com/dhrn_G)
 
