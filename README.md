@@ -1,19 +1,17 @@
-### Hi there  I'm Dharan 👋
 
-- 🔭 I’m currently working on Angular, Spring boot, NestJs and sometime with Devops
+  <img src="./Banner.png" alt="Dharan">
+
+
+
+- 🔭 I’m currently working on Angular.
 - 🌱 I’m currently learning Angular, Typescript ... pretty much everything that required to solve the business problem 
 - 💬 Ask me about Angular, Typescript
 - 📫 How to reach me: [@Dharan](https://twitter.com/dhrn_G)
 
-![Dharan Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=dhrn&show_icons=true&include_all_commits=true)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/dharan-g/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="baptiste mahe"  /></a>
+</p>
 
-![Dharan Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dhrn&layout=compact)
+![Dharan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhrn&show_icons=true&include_all_commits=true&theme=dark)
 
-<!--
-**dhrn/dhrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
