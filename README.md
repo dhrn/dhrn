@@ -10,8 +10,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/dharan-g/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Dharan"  /></a>
-  
-<a href="https://twitter.com/dhrn_G" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Dharan"  /></a>
+
+  <a href="https://stackoverflow.com/users/8188083" target="blank"><img align="center" src="https://img.shields.io/badge/Stackoverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Dharan"  /></a>
+
+ <a href="https://twitter.com/dhrn_G" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Dharan"  /></a>
   
 </p>
 
