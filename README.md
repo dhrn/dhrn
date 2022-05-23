@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on Angular.
+- 🔭 I’m currently working on Angular and React.js.
 - 🌱 I’m currently learning Angular, Typescript ... pretty much everything that required to solve the business problem 
 - 💬 Ask me about Angular, Typescript
 
