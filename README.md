@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning Angular, Typescript ... pretty much everything that required to solve the business problem 
 - 💬 Ask me about Angular, Typescript
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Dharan_Ganesan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dharan-g)
+[![Topmate Badge](https://img.shields.io/badge/topmate-Dharan_Ganesan-blue?style=flat&logo=Topmate&color=ff5b5b)](https://topmate.io/dharan_ganesan)
+
 
 ---
 
