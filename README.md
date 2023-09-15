@@ -14,7 +14,7 @@
 - [Day 48: Mapped Types](https://dev.to/dhrn/day-48-mapped-types-4gbn)
 - [Day 47: Utility Types](https://dev.to/dhrn/day-47-utility-types-2g5m)
 - [Day 46: Memoization](https://dev.to/dhrn/day-46-memoization-o0i)
-- [Day 45: DI](https://dev.to/dhrn/day-45-di-system-2ig6)
+- [Day 45: Dependency Injection](https://dev.to/dhrn/day-45-di-system-2ig6)
 - [Day 44: Decorators](https://dev.to/dhrn/day-44-decorators-3c42)
 <!-- BLOG-POST-LIST:END -->
 
