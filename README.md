@@ -11,11 +11,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 52: Namespace Augmentation](https://dev.to/dhrn/day-52-namespace-augmentation-42ll)
 - [Day 51: Recursive Types](https://dev.to/dhrn/day-51-recursive-types-365b)
 - [Day 50: Template Literal Types](https://dev.to/dhrn/day-50-template-literal-types-56hd)
 - [Day 49: Conditional Types](https://dev.to/dhrn/day-49-conditional-types-4mbc)
 - [Day 48: Mapped Types](https://dev.to/dhrn/day-48-mapped-types-4gbn)
-- [Day 47: Utility Types](https://dev.to/dhrn/day-47-utility-types-2g5m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
