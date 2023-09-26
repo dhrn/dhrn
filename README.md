@@ -1,10 +1,14 @@
 <img src="./Banner.png" alt="Dharan">
 
-- 🔭 I’m currently working on Angular and React.js.
-- 🌱 I’m currently learning Angular, Typescript ... pretty much everything that required to solve the business problem 
-- 💬 Ask me about Angular, Typescript
+👋 Welcome to my GitHub! I'm a fullstack engineer with a passion for problem-solving and innovation. My skills span the entire stack, from front-end to back-end, and I'm here to help turn your ideas into reality.
+
+- 🛠️ **Expertise**: JavaScript, React, Node.js, Java, and more.
+- 📦 **Portfolio**: Check out my projects below.
+- 💌 **Let's Collaborate**: Feel free to reach out for collaboration opportunities or inquiries.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Dharan_Ganesan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dharan-ganesan)
 [![Topmate Badge](https://img.shields.io/badge/Topmate-Dharan_Ganesan-blue?style=flat&logo=Topmate&color=ff5b5b)](https://topmate.io/dharan_ganesan) [![Calendly Badge](https://img.shields.io/badge/Calendly-Dharan_Ganesan-blue?&color=white)](https://calendly.com/dharang/15min)
+
+Let's build something amazing together! 🚀
 
 
 ---
