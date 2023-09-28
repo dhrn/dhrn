@@ -15,11 +15,11 @@ Let's build something amazing together! 🚀
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 56: Semantic HTML](https://dev.to/dhrn/day-56-semantic-html-3kfb)
 - [Day 55: HTML Rendering](https://dev.to/dhrn/day-55-html-rendering-1809)
 - [Day 54: Internet](https://dev.to/dhrn/day-54-internet-5cfk)
 - [Day 53: Deep Readonly](https://dev.to/dhrn/day-53-deep-readonly-1fea)
 - [Day 52: Namespace Augmentation](https://dev.to/dhrn/day-52-namespace-augmentation-42ll)
-- [Day 51: Recursive Types](https://dev.to/dhrn/day-51-recursive-types-365b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
