@@ -15,11 +15,11 @@ Let's build something amazing together! 🚀
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 60: Table Elements](https://dev.to/dhrn/day-60-table-elements-3o97)
 - [Day 59: Multimedia Tags](https://dev.to/dhrn/day-59-multimedia-tags-542h)
 - [Day 58: Commonly Used HTML Tags](https://dev.to/dhrn/day-58-commonly-used-html-tags-7om)
 - [Day 57: Forms](https://dev.to/dhrn/day-57-forms-1fe1)
 - [Day 56: Semantic HTML](https://dev.to/dhrn/day-56-semantic-html-3kfb)
-- [Day 55: HTML Rendering](https://dev.to/dhrn/day-55-html-rendering-1809)
 <!-- BLOG-POST-LIST:END -->
 
 ---
