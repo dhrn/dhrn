@@ -15,11 +15,11 @@ Let's build something amazing together! 🚀
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 64: CSS layouts](https://dev.to/dhrn/day-64-css-layouts-3c1i)
 - [Day 63: CSS](https://dev.to/dhrn/day-63-css-og2)
 - [Day 62: Global Attributes](https://dev.to/dhrn/day-62-global-attributes-3091)
 - [Day 61: HTML Events](https://dev.to/dhrn/day-61-html-events-173b)
 - [Day 60: Table Elements](https://dev.to/dhrn/day-60-table-elements-3o97)
-- [Day 59: Multimedia Tags](https://dev.to/dhrn/day-59-multimedia-tags-542h)
 <!-- BLOG-POST-LIST:END -->
 
 ---
