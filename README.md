@@ -15,11 +15,11 @@ Let's build something amazing together! 🚀
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 66: Document Object Model](https://dev.to/dhrn/day-66-document-object-model-38ha)
 - [Day 65: Responsive Design](https://dev.to/dhrn/day-65-responsive-design-3i7o)
 - [Day 64: CSS layouts](https://dev.to/dhrn/day-64-css-layouts-3c1i)
 - [Day 63: CSS](https://dev.to/dhrn/day-63-css-og2)
 - [Day 62: Global Attributes](https://dev.to/dhrn/day-62-global-attributes-3091)
-- [Day 61: HTML Events](https://dev.to/dhrn/day-61-html-events-173b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
