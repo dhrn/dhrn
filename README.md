@@ -21,11 +21,11 @@ Let's build something amazing together! 🚀
 Here are a few recent blog posts of mine:
 
 <!-- BLOG-POST-LIST:START -->
+- [Day 69: Newsletter](https://dev.to/dhrn/day-69-newsletter-29ho)
 - [Day 68: Smile Please](https://dev.to/dhrn/day-68-smile-5b15)
 - [Day 67: Tooltip](https://dev.to/dhrn/day-67-css-only-tooltip-30b6)
 - [Day 66: Document Object Model](https://dev.to/dhrn/day-66-document-object-model-38ha)
 - [Day 65: Responsive Design](https://dev.to/dhrn/day-65-responsive-design-3i7o)
-- [Day 64: CSS layouts](https://dev.to/dhrn/day-64-css-layouts-3c1i)
 <!-- BLOG-POST-LIST:END -->
 
 
