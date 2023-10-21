@@ -21,7 +21,7 @@ Let's build something amazing together! 🚀
 Here are a few recent blog posts of mine:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 72: Advise mentor app](https://dev.to/dhrn/day-72-advise-mentor-app-5g98)
+- [Day 72: Advise](https://dev.to/dhrn/day-72-advise-mentor-app-5g98)
 - [Day 71: CSS Architecture](https://dev.to/dhrn/day-71-css-architecture-1pc6)
 - [Day 70: Data Fetching](https://dev.to/dhrn/day-70-data-fetching-3kp9)
 - [Day 69: Newsletter](https://dev.to/dhrn/day-69-newsletter-29ho)
