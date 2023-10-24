@@ -21,11 +21,11 @@ Let's build something amazing together! 🚀
 Here are a few recent blog posts of mine:
 
 <!-- BLOG-POST-LIST:START -->
+- [Day 74: Tip](https://dev.to/dhrn/day-74-tip-calculator-352l)
 - [Day 73: Authentication](https://dev.to/dhrn/day-73-authentication-3ej9)
 - [Day 72: Advice](https://dev.to/dhrn/day-72-advise-mentor-app-5g98)
 - [Day 71: CSS Architecture](https://dev.to/dhrn/day-71-css-architecture-1pc6)
 - [Day 70: Data Fetching](https://dev.to/dhrn/day-70-data-fetching-3kp9)
-- [Day 69: Newsletter](https://dev.to/dhrn/day-69-newsletter-29ho)
 <!-- BLOG-POST-LIST:END -->
 
 
