@@ -21,11 +21,11 @@ Let's build something amazing together! 🚀
 Here are a few recent blog posts of mine:
 
 <!-- BLOG-POST-LIST:START -->
+- [Day 78: Web Storage](https://dev.to/dhrn/day-78-web-storage-d6b)
 - [Day 77: Web App Security](https://dev.to/dhrn/day-77-web-app-security-4d46)
 - [Day 76: Testimonial](https://dev.to/dhrn/day-76-testimonial-slider-1ail)
 - [Day 75: Countdown timer](https://dev.to/dhrn/day-75-countdown-timer-2bg5)
 - [Day 74: Tip](https://dev.to/dhrn/day-74-tip-calculator-352l)
-- [Day 73: Authentication](https://dev.to/dhrn/day-73-authentication-3ej9)
 <!-- BLOG-POST-LIST:END -->
 
 
