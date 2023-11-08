@@ -21,11 +21,11 @@ Let's build something amazing together! 🚀
 Here are a few recent blog posts of mine:
 
 <!-- BLOG-POST-LIST:START -->
+- [Day 83: Push Notifications](https://dev.to/dhrn/day-83-push-notifications-274a)
 - [Day 82: Service Worker](https://dev.to/dhrn/day-82-service-worker-67d)
 - [Day 81: Web Workers](https://dev.to/dhrn/day-81-web-workers-4ec0)
 - [Day 80: Server-Sent Events](https://dev.to/dhrn/day-80-server-sent-events-31oo)
 - [Day 79: WebSockets](https://dev.to/dhrn/day-79-websockets-2on9)
-- [Day 78: Web Storage](https://dev.to/dhrn/day-78-web-storage-d6b)
 <!-- BLOG-POST-LIST:END -->
 
 
