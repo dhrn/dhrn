@@ -21,11 +21,11 @@ Let's build something amazing together! 🚀
 Here are a few recent blog posts of mine:
 
 <!-- BLOG-POST-LIST:START -->
+- [Day 85: Device Orientation](https://dev.to/dhrn/day-85device-orientation-5dba)
 - [Day 84: Location](https://dev.to/dhrn/day-84-web-location-5o3)
 - [Day 83: Push Notifications](https://dev.to/dhrn/day-83-push-notifications-274a)
 - [Day 82: Service Worker](https://dev.to/dhrn/day-82-service-worker-67d)
 - [Day 81: Web Workers](https://dev.to/dhrn/day-81-web-workers-4ec0)
-- [Day 80: Server-Sent Events](https://dev.to/dhrn/day-80-server-sent-events-31oo)
 <!-- BLOG-POST-LIST:END -->
 
 
