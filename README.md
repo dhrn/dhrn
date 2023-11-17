@@ -21,11 +21,11 @@ Let's build something amazing together! 🚀
 Here are a few recent blog posts of mine:
 
 <!-- BLOG-POST-LIST:START -->
+- [Day 89: Share it](https://dev.to/dhrn/day-89-share-405o)
 - [Day 88: Manifest](https://dev.to/dhrn/day-88-manifest-eo8)
 - [Day 87: Credentials](https://dev.to/dhrn/day-87-web-credentials-40ao)
 - [Day 86: Payments API](https://dev.to/dhrn/day-86-payments-api-3hel)
 - [BONUS: Diwali](https://dev.to/dhrn/day-86-diwali-2foc)
-- [Day 85: Device Orientation](https://dev.to/dhrn/day-85device-orientation-5dba)
 <!-- BLOG-POST-LIST:END -->
 
 
