@@ -21,11 +21,11 @@ Let's build something amazing together! 🚀
 Here are a few recent blog posts of mine:
 
 <!-- BLOG-POST-LIST:START -->
+- [Day 92: WebRTC](https://dev.to/dhrn/day-92-webrtc-276)
 - [Day 91: WebAssembly](https://dev.to/dhrn/day-91-webassembly-3lm8)
 - [Day 90: Indexdb](https://dev.to/dhrn/day-90-index-db-1lh7)
 - [Day 89: Share](https://dev.to/dhrn/day-89-share-405o)
 - [Day 88: Manifest](https://dev.to/dhrn/day-88-manifest-eo8)
-- [Day 87: Credentials](https://dev.to/dhrn/day-87-web-credentials-40ao)
 <!-- BLOG-POST-LIST:END -->
 
 
