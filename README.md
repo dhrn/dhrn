@@ -21,11 +21,11 @@ Let's build something amazing together! 🚀
 Here are a few recent blog posts of mine:
 
 <!-- BLOG-POST-LIST:START -->
+- [Day 95: Skeleton](https://dev.to/dhrn/day-95-skeleton-lnp)
 - [Day 94: Frameworks](https://dev.to/dhrn/day-94-frameworks-3g2p)
 - [Day 93: Web components](https://dev.to/dhrn/day-93-web-components-1dik)
 - [Day 92: WebRTC](https://dev.to/dhrn/day-92-webrtc-276)
 - [Day 91: WebAssembly](https://dev.to/dhrn/day-91-webassembly-3lm8)
-- [Day 90: Indexdb](https://dev.to/dhrn/day-90-index-db-1lh7)
 <!-- BLOG-POST-LIST:END -->
 
 
