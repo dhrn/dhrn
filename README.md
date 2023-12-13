@@ -21,11 +21,11 @@ Let's build something amazing together! 🚀
 Here are a few recent blog posts of mine:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 96: Type Speed test](https://dev.to/dhrn/day-96-speed-test-5i6)
+- [Day 97: Typed Effect](https://dev.to/dhrn/day-97-typed-effect-4lcb)
+- [Day 96: Type Tester](https://dev.to/dhrn/day-96-speed-test-5i6)
 - [Day 95: Skeleton](https://dev.to/dhrn/day-95-skeleton-lnp)
 - [Day 94: Frameworks](https://dev.to/dhrn/day-94-frameworks-3g2p)
 - [Day 93: Web components](https://dev.to/dhrn/day-93-web-components-1dik)
-- [Day 92: WebRTC](https://dev.to/dhrn/day-92-webrtc-276)
 <!-- BLOG-POST-LIST:END -->
 
 
