@@ -21,11 +21,11 @@ Let's build something amazing together! 🚀
 Here are a few recent blog posts of mine:
 
 <!-- BLOG-POST-LIST:START -->
+- [The Untold Story of Comet Browser](https://dev.to/dhrn/the-untold-story-of-comet-browser-1k3e)
 - [🛠️ Browser Extensions](https://dev.to/dhrn/browser-extensions-4oac)
 - [Day 100: Last Day](https://dev.to/dhrn/day-100-last-day-11k2)
 - [Day 99: Match Pair](https://dev.to/dhrn/day-98-match-pair-1j1)
 - [Day 98: OTP](https://dev.to/dhrn/day-98-otp-5fda)
-- [Day 97: Typed Effect](https://dev.to/dhrn/day-97-typed-effect-4lcb)
 <!-- BLOG-POST-LIST:END -->
 
 
