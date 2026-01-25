@@ -21,11 +21,11 @@ Let's build something amazing together! 🚀
 Here are a few recent blog posts of mine:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/dhrn/-21fo)
 - [We Needed to Send Invoices as PDFs. Here&#39;s How We Solved It.](https://dev.to/dhrn/we-needed-to-send-invoices-as-pdfs-heres-how-we-solved-it-oje)
 - [The Untold Story of Comet Browser](https://dev.to/dhrn/the-untold-story-of-comet-browser-1k3e)
 - [🛠️ Browser Extensions](https://dev.to/dhrn/browser-extensions-4oac)
 - [Day 100: Last Day](https://dev.to/dhrn/day-100-last-day-11k2)
+- [Day 99: Match Pair](https://dev.to/dhrn/day-98-match-pair-1j1)
 <!-- BLOG-POST-LIST:END -->
 
 
